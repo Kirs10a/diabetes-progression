@@ -11,7 +11,9 @@ Predict a person's progression in the condition based on various attributes such
 ## Tools Used
 - Pandas
 - Matplotlib
-- Scikit-learn
+- NumPy
+- Seaborn
+- Sklearn
 
 ## Instructions
 1. Clone the repository
